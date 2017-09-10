@@ -1,0 +1,16 @@
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW1>javac question_3.java
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW1>java Months
+December
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW1>java Months
+September
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW1>java Months
+February
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW1>java Months
+March
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW1>

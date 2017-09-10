@@ -1,0 +1,21 @@
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW1>java Radius
+Enter radius
+2
+The radius is: 12.566370614359172
+Enter radius
+3
+The radius is: 28.274333882308138
+Enter radius
+4
+The radius is: 50.26548245743669
+Enter radius
+5
+The radius is: 78.53981633974483
+Enter radius
+6
+The radius is: 113.09733552923255
+Enter radius
+^Z
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW1>
