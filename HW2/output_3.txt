@@ -1,0 +1,14 @@
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>javac main3.java
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>java Palin
+Enter a string
+mom
+Palindrome
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>java Palin
+Enter a string
+error
+Palindrome
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>

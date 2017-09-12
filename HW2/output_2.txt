@@ -1,0 +1,113 @@
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\KlVtZ>cd desktop
+
+C:\Users\KlVtZ\Desktop>cd hw_3150
+
+C:\Users\KlVtZ\Desktop\HW_3150>cd hw2
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>javac main2.java
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>java Calendar
+Enter year:
+2017
+What day was the 1st of January on? [1-Mon 2-Tues 3-Wed  4-Thurs 5-Fri 6-Sat 7-Sun]
+1
+January 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30    31
+
+February 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+
+March 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30    31
+
+April 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30
+
+May 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30    31
+
+June 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30
+
+July 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30    31
+
+August 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30    31
+
+September 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30
+
+October 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30    31
+
+November 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30
+
+December 2017
+Sun  Mon  Tue   Wed   Thurs   Fri  Sat
+  1     2     3     4     5     6     7
+8     9     10    11    12    13    14
+15    16    17    18    19    20    21
+22    23    24    25    26    27    28
+29    30    31
+
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>

@@ -1,0 +1,21 @@
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>javac main1.java
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>java Pyramid
+Enter size of pyramid
+4
+1
+1      2      1
+1      2      3      2      1
+1      2      3      4      3      2      1
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>java Pyramid
+Enter size of pyramid
+3
+1
+1      2      1
+1      2      3      2      1
+
+C:\Users\KlVtZ\Desktop\HW_3150\HW2>

@@ -1,0 +1,4 @@
+I'm not sure there's a delimiter that could be use to split characters
+after doing some research the only option close to this is the .split() method
+
+cite:https://www.quora.com/How-do-you-split-a-word-in-Java
