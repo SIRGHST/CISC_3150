@@ -1,0 +1,20 @@
+C:\Users\Capta\Dropbox\HW_3150\HW3>java MainDriver
+the character @ the index is:
+w
+the length of the string is:
+10
+the substring of the string is:
+    OwjoVe
+lowercase:
+T?E?O???V?
+uppercase:
+4h%c/wjo6e
+isItEqual:
+false
+isItEqual:
+false
+ThEcOwjoVe
+ThE cOw juMp oVeR the sun
+45
+
+C:\Users\Capta\Dropbox\HW_3150\HW3>
