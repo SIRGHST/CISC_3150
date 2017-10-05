@@ -1,0 +1,15 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\Capta>cd dropbox
+
+C:\Users\Capta\Dropbox>cd hw_3150
+
+C:\Users\Capta\Dropbox\HW_3150>cd hw5
+
+C:\Users\Capta\Dropbox\HW_3150\HW5>javac MonteCarlo.java
+
+C:\Users\Capta\Dropbox\HW_3150\HW5>java MonteCarlo
+Pi =  3.141673096
+
+C:\Users\Capta\Dropbox\HW_3150\HW5>
