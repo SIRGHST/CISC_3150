@@ -1,0 +1,11 @@
+QUESTION 1:https://www.usna.edu/Users/cs/wcbrown/courses/S11IC211/classes/L12/HW/Homework.html
+
+1a)Output:[ Woof, woof, woof! ] example of overloading
+1b)Output: [ I'm a cat go away ] example of overriding/polymorphism
+1c) Output:Error
+1d) a method from class Object  example of overriding/polymorphism
+1e) Output: [ woof!]
+1f)Output: [Come here kitty... dont waste my time] example of overloading
+1g)Error
+1h)Output: [four]   
+1i)Output: Error
