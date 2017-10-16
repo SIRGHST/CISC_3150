@@ -1,5 +1,5 @@
-
-import java.util.*;
+package child;
+import parent.Parent;
 
 public class Child extends Parent
 {

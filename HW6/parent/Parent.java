@@ -1,3 +1,5 @@
+package parent;
+
 public class Parent
 {
   protected String str = "hello";

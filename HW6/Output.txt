@@ -1,5 +1,4 @@
-
-C:\Users\Capta\Dropbox\HW_3150\HW6>javac Child.java
+C:\Users\Capta\Dropbox\HW_3150\HW6>javac ./child/Child.java
 
 C:\Users\Capta\Dropbox\HW_3150\HW6>java Child
 hello
