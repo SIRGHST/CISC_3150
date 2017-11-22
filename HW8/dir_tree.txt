@@ -1,0 +1,73 @@
++----.dropbox
+|		
+.dropbox.cache
++----.dropbox.cache
++----08 Song For The Ville.mp3
+|		
+Asaad
++----Asaad
+|		
+Books (1)
++----Books (1)
+|		
+Camera Uploads
++----Camera Uploads
+|		
+CISC 3150
++----CISC 3150
+|		
+Collaboration
++----Collaboration
+|		
+Debug
++----Debug
++----desktop.ini
+|		
+free listens
++----free listens
+|		
+GYM
++----GYM
+|		
+HW_3150
++----HW_3150
+|		
+Independent Project
++----Independent Project
+|		
+instrumentals
++----instrumentals
++----Interview Guide.pdf
++----James Redfield - The Celestine Prophecy.pdf
++----King Chip - _DESTROY_ ft. Fredo Sant.mp3
++----lab3.txt
+|		
+McGregor,Trevaughn CISC 3630
++----McGregor,Trevaughn CISC 3630
++----McGregor,Trevaughn_Resume_.pdf
+|		
+MIDTERM
++----MIDTERM
+|		
+My Website
++----My Website
+|		
+OSCI
++----OSCI
+|		
+Public
++----Public
+|		
+References
++----References
++----ridin.txt
+|		
+samples from FL
++----samples from FL
++----samples.txt
+|		
+Screenshots
++----Screenshots
+|		
+Us
++----Us
